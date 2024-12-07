@@ -1,0 +1,18 @@
+body{
+    background-image:url(7.jpg) ;
+    background-size:cover;
+}
+.bang{
+    background-color: white;
+}
+.bang a{
+    text-decoration: none;
+    background-color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    border-radius:30% ;
+}
+.bang td{
+    text-align: center;
+}
